@@ -1,6 +1,6 @@
 {
     "name": "com.dgames.testpackage",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Test unity package",
     "description": "A same test unity package",
     "unity":"2021.3",
