@@ -1,0 +1,16 @@
+{
+    "name": "com.dgames.testpackage",
+    "version": "1.0.0",
+    "displayName": "Test unity package",
+    "description": "A same test unity package",
+    "unity":"2021.3",
+    "author": {
+        "name": "Darsan",
+        "email": "Darsan1991@gmail.com",
+        "url" : ""
+    },
+    "dependencies": {
+        
+    }
+
+}
